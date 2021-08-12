@@ -28,7 +28,7 @@ Usage in browser
 You can connect script directly with jsDelivr
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/SVOIcom/freeton-dens-lib/index.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/freeton-dens-lib/index.min.js"></script>
 ```
 
 or connect index.js file in any way. No other libraries needed
