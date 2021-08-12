@@ -1,12 +1,15 @@
 {
   "name": "freeton-dens-lib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "FreeTON Decentralized DNS resolve libriary",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "git": "https://github.com/SVOIcom/freeton-dens-lib",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SVOIcom/freeton-dens-lib"
+  },
   "author": "Andrey Nedobylskiy",
   "license": "Apache-2.0",
   "dependencies": {
