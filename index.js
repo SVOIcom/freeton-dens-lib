@@ -31,7 +31,7 @@
                     window[callback] = undefined;
                     resolve(data);
                 };
-                script.src = `${url}?callback=${callback}`;
+                script.src = `${url}&callback=${callback}`;
                 document.body.appendChild(script);
             } catch (e) {
                 reject(e);
